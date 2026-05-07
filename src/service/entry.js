@@ -1,0 +1,1 @@
+import Entry from '../models/entry'
